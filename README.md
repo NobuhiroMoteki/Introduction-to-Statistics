@@ -5,7 +5,9 @@ Self-learning text (in Japanese) of frequentist statistics (Interval estimation 
 
 ## 📚Contents
 1. 確率変数 pp. 1-13 
+
     1.1. 離散分布 
+    
     1.2. 連続分布 
     1.3. 数値積分 
     1.4. 統計量  
